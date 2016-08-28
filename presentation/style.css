@@ -1,0 +1,24 @@
+.left-align > p {
+    text-indent: 48pt;
+    text-align: left;
+}
+
+.hide-number .page-number {
+    display: none;
+}
+
+.author-slide .page-number {
+    display: none;
+}
+
+.hljs-keyword {
+    color: #ee0050
+}
+
+.hljs-type {
+    color: #78B
+}
+
+.hljs-title {
+    color: #D8Af1F
+}
