@@ -4,6 +4,6 @@ class AnonymousDiamondDemo {
     interface Clazz<T> {}
 
     void doThis() {
-        new Clazz<>() {};
+        new Clazz<Object>() {};
     }
 }
