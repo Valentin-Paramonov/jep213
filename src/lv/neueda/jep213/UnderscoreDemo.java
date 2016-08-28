@@ -2,8 +2,8 @@ package lv.neueda.jep213;
 
 public class UnderscoreDemo {
     void doStüff() {
-        int _ = 1;
+        int __ = 1;
 
-        System.out.println(_);
+        System.out.println(__);
     }
 }
